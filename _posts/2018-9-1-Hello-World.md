@@ -5,8 +5,7 @@ title: Hello world!
 Hi!  
 Welcome on my website where I write about statistics, machine learning and programming. Content will (hopefully) follow soon!
 
-'''
-def norm_pdf(X, mu, C):
+'''def norm_pdf(X, mu, C):
     d = mu.size
 
     if np.linalg.matrix_rank(C) < d:
@@ -19,5 +18,4 @@ def norm_pdf(X, mu, C):
 
     y = term1 * term2
 
-    return y
-'''
+    return y'''
