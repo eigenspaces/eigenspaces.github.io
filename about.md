@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is a website about my personal projects in the area of statistics, machine learning and programming.
+Hi! 
+This is a website about my personal projects. My interests include machine learning, statistics, probability theory, programming (especially Python and R) and data visualization. I currently pursue a master's degree in statistics at Humboldt University, Technical University and Free University of Berlin. 
 
 ### Contact me
 
