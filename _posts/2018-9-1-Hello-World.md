@@ -2,5 +2,5 @@
 layout: post
 title: Hello world!
 ---
-
-This is a website about my personal projects in the area of statistics, machine learning and programming.
+Hi!
+Welcome on my personal website where I write about my personal projects in the area of statistics, machine learning and programming. Content will (hopefully) follow soon!
