@@ -3,7 +3,7 @@ layout: post
 title: Hello world!
 ---
 Hi!  
-Welcome on my website where I write about statistics, machine learning and programming. Content will (hopefully) follow soon!
+Welcome on my website! I write about statistics, machine learning and programming. Content will (hopefully) follow soon!
 
 ```python
 def norm_pdf(X, mu, C):
@@ -21,3 +21,11 @@ def norm_pdf(X, mu, C):
 
     return y
 ```
+
+$$
+M = \left( \begin{array}{ccc}
+x_{11} & x_{12} & \ldots \\
+x_{21} & x_{22} & \ldots \\
+\vdots & \vdots & \ldots \\
+\end{array} \right)
+$$
