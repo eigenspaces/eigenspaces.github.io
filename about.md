@@ -9,4 +9,3 @@ I currently pursue a master's degree in statistics at Humboldt University, Techn
 
 ### Contact me
 
-[nikolas.hoeft@gmail.com](mailto:nikolas.hoeft@gmail.com)
