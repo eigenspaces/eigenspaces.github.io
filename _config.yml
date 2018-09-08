@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Nikolas Höft
+name: Eigenspaces
 
 # Short bio or description (displayed in the header)
 description: Statistics, Machine Learning, Programming
@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: nhoeft
+  github: eigenspaces
   instagram:
-  linkedin: nikolashoeft
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: users/6225630/nhoeft
+  stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
