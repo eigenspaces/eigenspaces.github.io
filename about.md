@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hi!  
 
-Welcome on our blog about statistics and machine learning.
-
-
-Who is blogging here?
+### Authors
 
 J-Dog
 
 Niko
 
-### Contact me
+### Contact us
 
