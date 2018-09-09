@@ -6,7 +6,7 @@
 name: Eigenspaces
 
 # Short bio or description (displayed in the header)
-description: Statistics, Machine Learning, Programming
+description:  Machine Learning, Statistics, Programming
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/eigenspaces/eigenspaces.github.io/master/images/scatter.png
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: eigenspaces
+  github:
   instagram:
   linkedin: 
   pinterest:
